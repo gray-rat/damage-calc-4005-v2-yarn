@@ -31,5 +31,3 @@ jobs:
         path: ./junit
       - store_artifacts:
         path: ./junit
-        
-      - run: yarn test
